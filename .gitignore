@@ -1,0 +1,14 @@
+*.out
+*.o
+
+apue.3e
+
+lib/libapue.a
+
+src/chapter1/figure_1.3
+src/chapter1/figure_1.4
+src/chapter1/figure_1.5
+src/chapter1/figure_1.6
+src/chapter1/figure_1.7
+src/chapter1/figure_1.8
+src/chapter1/figure_1.9
